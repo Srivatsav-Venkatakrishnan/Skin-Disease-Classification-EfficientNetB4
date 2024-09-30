@@ -39,9 +39,12 @@ Ensure that your EfficientNetB4 model is downloaded and that the .xml and .bin f
 
 
 4. **Model and Weights:**
-The Model files and model weights are uploaded in Kaggle and here's the link to model weights and files - https://www.kaggle.com/models/srivatsavvenkat/skin-disease-classification
+   
+   The Model files and model weights are uploaded in Kaggle and here's the link to model weights and files - https://www.kaggle.com/models/srivatsavvenkat/skin-disease- 
+   classification
 
-To use the model in real time on your local environment download the model weights zip file and change the model weights path in code and run to get the final output video.
+   To use the model in real time on your local environment download the model weights zip file and change the model weights path in code and run to get the final output 
+   video.
 
 5. **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
